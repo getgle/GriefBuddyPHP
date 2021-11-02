@@ -6,7 +6,7 @@ I host this on https://grief.getgle.org so feel free to use that if you don't wa
 
 ## requirements
 
-All this script requires is PHP with the curl module enabled.
+All this script requires is PHP
 
 ## how to set up on your own griefbuddyphp server
 
