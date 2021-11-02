@@ -1,0 +1,21 @@
+body{
+    background:url("static/k0rnh0li0.gif") fixed bottom right no-repeat, url("static/getgle.gif") fixed bottom right no-repeat #000;
+    font-family:monospace;
+    color:#0f0;
+    font-size:24px;
+    margin:10px;
+
+}
+h1{
+    margin:0;
+}
+.message{
+display:block;
+margin-bottom:10px;
+}
+a, .active-false{
+    color:rgb(0, 81, 255);
+}
+.active-true{
+    color:rgb(255,0,0);
+}
